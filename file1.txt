@@ -2,3 +2,5 @@ hello
 world
 Happy New year
 test
+
+Okay, now I am modifying the contents of the file through vscode. Basically code file1.txt, modify content, exit and then commit
